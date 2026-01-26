@@ -1,5 +1,21 @@
 {
-  "lastUpdated": "2026-01-26T18:13:49.135Z",
-  "sources": [],
-  "matches": []
+  "lastUpdated": "2026-01-26T18:23:18.692Z",
+  "sources": [
+    "https://www.dltcdirectory.net/result/6908e46ec0192a8ab45480f5/693ffbaa4b2dded509dcc64e"
+  ],
+  "matches": [],
+  "debug": [
+    {
+      "url": "https://www.dltcdirectory.net/result/6908e46ec0192a8ab45480f5/693ffbaa4b2dded509dcc64e",
+      "httpStatus": 200,
+      "hasNextData": false,
+      "nextDataTopLevel": null,
+      "htmlHints": {
+        "length": 744,
+        "hasNextDataTag": false,
+        "hasNuxt": false,
+        "title": "Tennis Leagues"
+      }
+    }
+  ]
 }
